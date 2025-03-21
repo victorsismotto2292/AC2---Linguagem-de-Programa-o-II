@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Banco de Dados - Adicionar Experimento</title>
+</head>
+<body>
+  <h1> Experimentos científicos </h1>
+  <p>Por favor, preencha o formulário abaixo 
+    para a inserção de um novo experimento. </p>
+    <form action="http://localhost:3010/adicionar-experimento" method="POST">
+      <label for="nome">Nome do experimento -></label>
+      <input type="text" id="nome" name="nome" required><br><br>
+
+      <label for="área_de_estudo">Área de estudo -></label>
+      <input type="text" id="área_de_estudo" name="área_de_estudo" required><br><br>
+
+      <label for="descrição">Descrição do experimento -></label>
+      <textarea name="descrição" id="descrição"></textarea><br><br>
+
+      <button type="submit">Adicionar experimento</button><br><br>
+    </form>
+
+    <button id="voltar">Voltar</button>
+
+    <script>
+          document.getElementById("voltar").addEventListener("click", function(){
+        window.location.href = "home";
+    });
+    </script>
+</body>
+</html>

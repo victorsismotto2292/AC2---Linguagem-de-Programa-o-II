@@ -1,0 +1,22 @@
+[
+  {
+    "nome": "Experimento 1",
+    "área_de_estudo": "Biologia - Estudo dos Seres Vivos",
+    "descrição": "Experimento realizado com células endossimbióticas para a descoberta de uma nova espécie"
+  },
+  {
+    "nome": "Experimento 2",
+    "área_de_estudo": "Física - Termodinâmica",
+    "descrição": "Experimento utilizado com uma câmera que captura a 10 trilhões de frames por segundo. Foi possível observar a velocidade da luz em câmera lenta dentro de uma garrafa"
+  },
+  {
+    "nome": "Experimento 3",
+    "área_de_estudo": "Matemática - Representação gráfica do seno e cosseno",
+    "descrição": "Utilizando diferentes medidas de ângulos para ver quais possíveis medidas são possíveis de formar uma parábola com sinais positivos."
+  },
+  {
+    "nome": "Experimento 4",
+    "área_de_estudo": "Geografia - Polos",
+    "descrição": "Exploração entre polos geográficos e polos magnéticos, utilizando uma bússola para demonstrar a orientação magnética, ou o experimento de Eratóstenes para entender a curvatura da Terra."
+  }
+]

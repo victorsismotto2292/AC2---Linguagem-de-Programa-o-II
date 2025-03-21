@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Banco de Dados - Home</title>
+</head>
+<body>
+    <h1>Bem vindo ao nosso banco de dados <br> 
+        de experimentos científicos! </h1>
+    <button id="experimentos">Ver experimentos</button><br><br>
+    <button id="adicionar">Adicionar experimento</button>
+
+    <script>
+        // Rotas dos botões para diferentes páginas:
+
+        document.getElementById("experimentos").addEventListener("click", function() {
+        window.location.href = "buscar-experimento";
+    });
+
+    document.getElementById("adicionar").addEventListener("click", function(){
+        window.location.href = "adicionar-experimento";
+    });
+    
+    </script>
+</body>
+</html>
