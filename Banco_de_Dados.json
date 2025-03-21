@@ -18,5 +18,20 @@
     "nome": "Experimento 4",
     "área_de_estudo": "Geografia - Polos",
     "descrição": "Exploração entre polos geográficos e polos magnéticos, utilizando uma bússola para demonstrar a orientação magnética, ou o experimento de Eratóstenes para entender a curvatura da Terra."
+  },
+  {
+    "nome": "Experimento 5",
+    "área_de_estudo": "Biologia - Estudo dos seres heterotróficos",
+    "descrição": "vector cu"
+  },
+  {
+    "nome": "Experimento 6",
+    "área_de_estudo": "Biologia - Combustíveis Fósseis",
+    "descrição": "Experimento sobre combustíveis fósseis"
+  },
+  {
+    "nome": "Experimento 7",
+    "área_de_estudo": "Física - Estudando física quântica",
+    "descrição": "comprovar teoria de laço, string theory bro, muito maluco "
   }
 ]
